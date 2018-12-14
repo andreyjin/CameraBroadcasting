@@ -1,0 +1,35 @@
+PODS:
+  - CocoaAsyncSocket (7.6.3)
+  - google-cast-sdk (4.3.2):
+    - google-cast-sdk/Core (= 4.3.2)
+    - Protobuf (~> 3.0)
+  - google-cast-sdk/Core (4.3.2):
+    - Protobuf (~> 3.0)
+  - HaishinKit (0.10.2):
+    - Logboard (~> 1.2.0)
+  - Logboard (1.2.1)
+  - Protobuf (3.6.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - google-cast-sdk
+  - HaishinKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaAsyncSocket
+    - google-cast-sdk
+    - HaishinKit
+    - Logboard
+    - Protobuf
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  google-cast-sdk: 845b740ef8c47919185651ba62b36b2ed0cfab40
+  HaishinKit: 66f35a640cf2418f19a409c330c7e5a35dbcde18
+  Logboard: 54b56d4bb018c607b1ab7803fd4c9f83d9487dc3
+  Protobuf: 1eb9700044745f00181c136ef21b8ff3ad5a0fd5
+
+PODFILE CHECKSUM: 2db475b5fa9f3f3efc7096c479905ff36eb0c686
+
+COCOAPODS: 1.5.3
