@@ -1,2 +1,2 @@
-# MotionDetection
-This project is implemented for detecting moving object within video from camera
+# CameraBroadcasting
+This project is implemented for broadcasting video from camera in iOS
